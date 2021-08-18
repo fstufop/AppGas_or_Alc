@@ -14,7 +14,7 @@ class ViewController: UIViewController {
        @IBOutlet weak var gasPriceField: UITextField!
        @IBOutlet weak var resultField: UILabel!
      var test: Float = 0.0
-    let alcoolPrice = alcoolPriceField.text{
+    let alcoolPrice = alcoolPriceField.text{ 
         
     }
     let alcoolPrice = gasPriceField.text{
